@@ -1,7 +1,7 @@
-**[ ]  painting**
+** - painting**
 
-*[ ] novels?*
+*-novels?*
 
-***[ ] songs***
+***- songs***
 
-[ ] meditation
+- meditation
